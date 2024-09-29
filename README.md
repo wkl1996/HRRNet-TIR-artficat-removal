@@ -1,0 +1,1 @@
+# HRRNet-TIR-artficat-removal
